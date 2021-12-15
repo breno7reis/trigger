@@ -16,7 +16,6 @@ Let's be honest... that's just a simple class, but it can sometimes tidy up your
 
 Check [USAGE.md](USAGE.md)
 
-
 Developed by
 ============
  * Bartosz Lipiński
